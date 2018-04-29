@@ -1,3 +1,4 @@
-/aws/*          https://aws.sail.fm/:splat    200
-/web/*          https://web.sail.fm/:splat    200
-/pg/*           https://pg.sail.fm/:splat     200
+/gitbook/*      https://aws.sail.fm/gitbook/:splat    200
+/aws/*          https://aws.sail.fm/:splat            200
+/web/*          https://web.sail.fm/:splat            200
+/pg/*           https://pg.sail.fm/:splat             200
