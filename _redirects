@@ -1,3 +1,3 @@
-/aws            https://aws.sail.fm
-/web            https://web.sail.fm
-/pg             https://pg.sail.fm    200
+/aws/*          https://aws.sail.fm/:splat    200
+/web/*          https://web.sail.fm/:splat    200
+/pg/*           https://pg.sail.fm/:splat     200
